@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Hitung Persegi Panjang</string>
+    <string name="peringatan">Masukan terlebih dahulu panjang dan lebar persegi panjang yang akan di hitung luasnya dan kelilingnya!</string>
+    <string name="panjang">Masukan panjang (cm)</string>
+    <string name="lebar">Masukan lebar (cm)</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil_luas">Luas: %1$s cm2</string>
+    <string name="hasil_keliling">Keliling: %1$s cm</string>
+    <string name="panjang_invalid">Panjang tidak boleh kosong.</string>
+    <string name="lebar_invalid">Lebar tidak boleh kosong.</string>
+    <string name="jenis_invalid">Pilih jenis hitungan.</string>
+    <string name="copyright">Hitung Persegi Panjang merupakan aplikasi untuk mengitung luas dan keliling persegi panjang sehingga orang yang ingin menghitung luas dan keliling persegi panjang akan terbantu dengan aplikasi ini.\n\nKalian juga bisa liat kode dari pembuatan aplikasi ini di https://github.com/AlHadidDefryRinandi/assesment1_6706202099.git</string>
+    <string name="share">Share</string>
+    <string name="bagikan_template">Hitung Persegi Panjang\nPanjang: %1$s cm kg\nLebar: %2$s cm\n\n%3$s \n%4$s</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="belum_ada_data">Belum ada data</string>
+    <string name="histori">Histori</string>
+    <string name="hasil_x">Luas: %1$.2f cm2 - Keliling: %2$s cm</string>
+    <string name="data_x">Panjang: %1$.1f cm - Lebar: %2$.1f cm </string>
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="channel_name">Updater</string>
+    <string name="channel_desc">Update data objek persegi panjang otomatis</string>
+    <string name="notif_title">Ada objek persegi panjang baru!</string>
+    <string name="notif_text">Cek sekarang biar nggak penasaran..</string>
+    <string name="koneksi_error">Koneksi Error</string>
+    <string name="objek_persegi_panjang">Objek Persegi Panjang</string>
+</resources>
